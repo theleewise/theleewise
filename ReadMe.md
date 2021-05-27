@@ -9,7 +9,7 @@
 
 <br>
 
-- 🌱 I’m currently leveling up: **TypeScript**, **Jest**, **React Hooks**
+- 🌱 I’m currently leveling up: **TypeScript**, **Jest**
 - 🥅 2021 Goals: 
 - ⚡ Fun fact: I'm a pretty decent magician 
 
@@ -67,14 +67,25 @@
 
 <br>
 
-- [ ] Jest
-- [ ] Storybook JS
+- [ ] TypeScript
+- [ ] Unit Testing (Jest)
+- [ ] E2E Testing (Cypress)
 - [ ] Git Hooks
 - [ ] GitHub Actions
 - [ ] Webpack
 - [ ] CI / CD (Jenkins, Circle CI,  or Travis CI)
 - [ ] Headless Wordpress
 - [ ] Headless Drupal
+
+### Leveled Up
+
+<br>
+
+- [x] React
+- [x] React Hooks
+- [x] Styled Components
+- [x] Storybook JS
+- [x] JSDoc
 
 
 [blog]: https://theleewise.com/
