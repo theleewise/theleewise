@@ -9,7 +9,7 @@
 
 <br>
 
-- 🌱 I’m currently leveling up: **React Hooks**
+- 🌱 I’m currently leveling up: **TypeScript**, **Jest**, **React Hooks**
 - 🥅 2021 Goals: 
 - ⚡ Fun fact: I'm a pretty decent magician 
 
