@@ -9,8 +9,8 @@
 
 <br>
 
-- 🌱 I’m currently leveling up: **TypeScript**, **Jest**
-- 🥅 2021 Goals: 
+- 🌱 I’m currently leveling up: **Node**, **Oauth2**
+- 🥅 2022 Goals: 
 - ⚡ Fun fact: I'm a pretty decent magician 
 
 <br>
@@ -24,6 +24,7 @@
 [<img align="left" alt="theleewise | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="theleewise | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="theleewise | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
+[<img align="left" alt="theleewise | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 
 <br />
 <br />
@@ -74,8 +75,7 @@
 - [ ] GitHub Actions
 - [ ] Webpack
 - [ ] CI / CD (Jenkins, Circle CI,  or Travis CI)
-- [ ] Headless Wordpress
-- [ ] Headless Drupal
+- [ ] Headless CMSs (Wordpress, Drupal, Sanity)
 
 ### Leveled Up
 
@@ -96,3 +96,4 @@
 [stackoverflow]: https://stackoverflow.com/users/800317/lee-wise
 [leetcode]: https://leetcode.com/theleewise/
 [codewars]: https://www.codewars.com/users/theleewise
+[dribbble]: https://dribbble.com/theleewise
