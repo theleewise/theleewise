@@ -1,6 +1,6 @@
 ### Hi there, I'm [theleewise][website] 👋
 
-[![Website](https://img.shields.io/website?label=theleewise.comm&style=for-the-badge&url=https%3A%2F%2Ftheleewise.com)][website]
+[![Website](https://img.shields.io/website?label=theleewise.com&style=for-the-badge&url=https%3A%2F%2Ftheleewise.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/theleewise?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=theleewise)
 
 <br>
