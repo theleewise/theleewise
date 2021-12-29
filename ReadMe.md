@@ -65,6 +65,14 @@
 
 <br>
 
+### Currently Leveling Up
+
+<br>
+
+- [ ] Webhooks
+ 
+<br>
+
 ### Leveling Up Next
 
 <br>
@@ -74,7 +82,7 @@
 - [ ] E2E Testing (Cypress)
 - [ ] Git Hooks
 - [ ] GitHub Actions
-- [ ] Webpack
+- [ ] Webpack 😬
 - [ ] CI / CD (Jenkins, Circle CI,  or Travis CI)
 - [ ] Headless CMSs (Wordpress, Drupal, Sanity)
 
@@ -82,6 +90,7 @@
 
 <br>
 
+- [x] OAuth 2
 - [x] React
 - [x] React Hooks
 - [x] Styled Components
