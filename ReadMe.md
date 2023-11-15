@@ -69,7 +69,7 @@
 
 <br>
 
-- [ ] Webhooks
+- [ ] TypeScript
  
 <br>
 
@@ -77,19 +77,19 @@
 
 <br>
 
-- [ ] TypeScript
-- [ ] Unit Testing (Jest)
 - [ ] E2E Testing (Cypress)
-- [ ] Git Hooks
-- [ ] GitHub Actions
-- [ ] Webpack 😬
 - [ ] CI / CD (Jenkins, Circle CI,  or Travis CI)
-- [ ] Headless CMSs (Wordpress, Drupal, Sanity)
+- [ ] GitHub Actions
+- [ ] Git Hooks
+- [ ] Webpack 😬
 
 ### Leveled Up
 
 <br>
 
+- [x] Headless CMSs (Wordpress & Sanity)
+- [x] Webhooks
+- [x] Unit Testing (Jest)
 - [x] OAuth 2
 - [x] React
 - [x] React Hooks
