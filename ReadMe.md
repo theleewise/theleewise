@@ -98,8 +98,8 @@
 - [x] JSDoc
 
 
-[blog]: https://theleewise.com/
-[website]: https://theleewise.com/
+[blog]: https://theleewise.com/?utm_source=github
+[website]: https://theleewise.com/?utm_source=github
 [twitter]: https://twitter.com/theleewise
 [linkedin]: https://www.linkedin.com/in/lee-wise/
 [instagram]: http://instagram.com/theleewise/
