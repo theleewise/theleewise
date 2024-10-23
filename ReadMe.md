@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=theleewise.com&style=for-the-badge&url=https%3A%2F%2Ftheleewise.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/theleewise?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=theleewise)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/800317?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400)][stackoverflow]
-
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftheleewise&logo=leetcode&logoColor=yellow)][leetcode]
 <br>
 
 ## 👨‍💻 Developer | 🎨  Designer | 🤘 Dude | 💀 BAMF
