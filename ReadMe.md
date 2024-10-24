@@ -21,7 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theleewise-333.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)][linkedin]
 
-[![X](https://img.shields.io/badge/X-theleewise-333.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=000000)][twitter]
+[![X](https://img.shields.io/badge/X_(Twitter)-theleewise-333.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=000000)][twitter]
 
 [![Instagram](https://img.shields.io/badge/Instagram-theleewise-333.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)][instagram]
 
@@ -68,7 +68,7 @@
 
 [website]: https://theleewise.com/?utm_source=github&utm_medium=profile
 [twitter]: https://twitter.com/theleewise
-[linkedin]: httpst://www.linkedin.com/in/lee-wise
+[linkedin]: https://www.linkedin.com/in/lee-wise
 [dribbble]: https://dribbble.com/theleewise
 [instagram]: http://instagram.com/theleewise
 [leetcode]: https://leetcode.com/theleewise
